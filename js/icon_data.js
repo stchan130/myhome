@@ -124,6 +124,15 @@ class IconData{
                 href:"https://www.pokepara.jp/aichi/m201/a208/shop14450/",
                 img:"img/cara-bar.png"
             },
+            
+            // new
+            {
+                parentClass:"general",
+                classname:"web-extention",
+                href:"https://addon.stchan130.com/",
+                img:"img/web_extention.png"
+            },
+
             {
                 parentClass:"unusual",
                 classname:"salary",
