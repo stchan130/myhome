@@ -130,7 +130,8 @@ class IconData{
                 parentClass:"general",
                 classname:"web-extention",
                 href:"https://addon.stchan130.com/",
-                img:"img/web_extention.png"
+                // img:"img/web_extention.png"
+                img:"img/web_extention.svg"
             },
 
             {
