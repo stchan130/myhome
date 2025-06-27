@@ -281,7 +281,7 @@ class IconData{
             {
                 parentClass:"adult",
                 classname:"sougouwiki", 
-                href:"http://sougouwiki.com/",
+                href:"https://seesaawiki.jp/w/sougouwiki/",
                 img:"img/amateur_av.png"
             },
             {
