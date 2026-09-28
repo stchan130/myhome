@@ -132,9 +132,9 @@ class IconData{
             },
             {
                 parentClass:"general",
-                classname:"cara-bar",
+                classname:"pokepara",
                 href:"https://www.pokepara.jp/aichi/m205/a223/",
-                img:"img/cara-bar.png"
+                img:"img/pokepara.jpg"
             },
             
             // new
@@ -144,6 +144,21 @@ class IconData{
                 href:"https://addon.stchan130.com/",
                 // img:"img/web_extention.png"
                 img:"img/web_extention.svg"
+            },
+
+
+            // https://calendar.google.com/calendar/u/0/r?hl=ja
+            {
+                parentClass:"general",
+                classname:"calendar",
+                href:"https://calendar.google.com/calendar/u/0/r?hl=ja",
+                img:"img/calendar.jpg"
+            },
+            {
+                parentClass:"general",
+                classname:"router",
+                href:"http://192.168.110.128/",
+                img:"img/tplink.jpg"
             },
 
             {
