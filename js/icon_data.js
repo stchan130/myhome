@@ -290,6 +290,12 @@ class IconData{
             },
             {
                 parentClass:"adult",
+                classname:"candfans", 
+                href:"https://candfans.jp/",
+                img:"img/candfans.jpg"
+            },
+            {
+                parentClass:"adult",
                 classname:"duga", 
                 href:"http://duga.jp/",
                 img:"img/duga.png"},
