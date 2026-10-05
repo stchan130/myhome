@@ -137,29 +137,40 @@ class IconData{
                 img:"img/pokepara.jpg"
             },
             
-            // new
             {
                 parentClass:"general",
                 classname:"web-extention",
                 href:"https://addon.stchan130.com/",
-                // img:"img/web_extention.png"
                 img:"img/web_extention.svg"
             },
 
-
-            // https://calendar.google.com/calendar/u/0/r?hl=ja
             {
                 parentClass:"general",
                 classname:"calendar",
                 href:"https://calendar.google.com/calendar/u/0/r?hl=ja",
                 img:"img/calendar.jpg"
             },
+
+            {
+                parentClass:"general",
+                classname:"t-faminet",
+                href:"https://t-faminet.jp/sp/top.html",
+                img:"img/t-faminet.jpg"
+            },
+
+
+
+
             {
                 parentClass:"general",
                 classname:"router",
                 href:"http://192.168.110.128/",
                 img:"img/tplink.jpg"
             },
+
+
+
+
 
             {
                 parentClass:"unusual",
