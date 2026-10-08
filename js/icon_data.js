@@ -17,6 +17,15 @@ class IconData{
             },
             {
                 parentClass:"general",
+                classname:"gemini",
+                href:"https://gemini.google.com/app?hl=ja", 
+                img:"img/gemini.jpg"
+            },
+
+
+            
+            {
+                parentClass:"general",
                 classname:"showroom",
                 href:"https://www.showroom-live.com/follow", 
                 img:"img/showroom.png"
@@ -310,6 +319,15 @@ class IconData{
                 href:"https://candfans.jp/",
                 img:"img/candfans.jpg"
             },
+
+            {
+                parentClass:"adult",
+                classname:"xfans", 
+                href:"https://www.xfans.tokyo/following",
+                img:"img/xfans.jpg"
+            },
+
+            
             {
                 parentClass:"adult",
                 classname:"duga", 
