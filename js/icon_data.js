@@ -21,9 +21,6 @@ class IconData{
                 href:"https://gemini.google.com/app?hl=ja", 
                 img:"img/gemini.jpg"
             },
-
-
-            
             {
                 parentClass:"general",
                 classname:"showroom",
@@ -42,7 +39,6 @@ class IconData{
                 href:"https://www.instagram.com/?hl=ja",
                 img:"img/instagram.png"
             },
-
             {
                 parentClass:"general",
                 classname:"tiktok",
@@ -104,6 +100,19 @@ class IconData{
                 href:"https://www.nitori-net.jp/ec/",
                 img:"img/nitori.png"
             },
+            {
+                parentClass:"general",
+                classname:"muji",
+                href:"https://www.muji.com/jp/ja/store",
+                img:"img/muji.png"
+            },
+            {
+                parentClass:"general",
+                classname:"daisonet",
+                href:"https://jp.daisonet.com/",
+                img:"img/daisonet.png"
+            },
+            
             {
                 parentClass:"general",
                 classname:"hotpepper",
