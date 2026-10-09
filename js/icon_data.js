@@ -9,6 +9,20 @@ class IconData{
 
     static GetEement(){
         return [
+
+            {
+                parentClass:"general",
+                classname:"myna",
+                href:"https://myna.go.jp/", 
+                img:"img/myna.jpg"
+            },
+            {
+                parentClass:"general",
+                classname:"nenkin",
+                href:"https://www.nenkin.go.jp/denshibenri_kojin/n_net/index.html", 
+                img:"img/nenkin.jpg"
+            },            
+
             {
                 parentClass:"general",
                 classname:"chatgpt",
@@ -21,6 +35,16 @@ class IconData{
                 href:"https://gemini.google.com/app?hl=ja", 
                 img:"img/gemini.jpg"
             },
+
+            {
+                parentClass:"general",
+                classname:"tohogas",
+                href:"https://members.tohogas.co.jp/", 
+                img:"img/tohogas.jpg"
+            },
+
+
+
             {
                 parentClass:"general",
                 classname:"showroom",
@@ -122,7 +146,8 @@ class IconData{
             {
                 parentClass:"general",
                 classname:"tabelog",
-                href:"https://tabelog.com/",
+                // href:"https://tabelog.com/",
+                href:"https://tabelog.com/rvwr/026887975/hozon_restaurants/list?msu=026887975&review_content_exist=0&PG=1&from_search=&voluntary_search=1&SrtT=rd&Srt=D&sort_mode=&from_search_form=1&lid=&pcd=23&LstPrf=A2305&LstAre=A230501&Cat=&RdoCosTp=2&LstCos=0&LstCosT=0&VisitFilter=0&search_collection_id=&LstRev=0&sw=&LstKind=01&LstReserve=0&LstSmoking=0",
                 img:"img/tabelog.png"
             },
             {
