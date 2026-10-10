@@ -234,6 +234,13 @@ class IconData{
             },
             {
                 parentClass:"unusual",
+                classname:"toyoken-portal",
+                href:"https://toyoken-portal.kw21connect.jp/kw21cu/user/kanyushaMenu/kanyushaMenu.jsf",
+                img:"img/toyoken-portal.png"
+            },
+            
+            {
+                parentClass:"unusual",
                 classname:"yahoo-train", 
                 href:"https://transit.yahoo.co.jp/",
                 img:"img/yahoo_train.webp"
