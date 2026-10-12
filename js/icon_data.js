@@ -269,6 +269,13 @@ class IconData{
                 href:"https://www.rakuten-card.co.jp/e-navi/",
                 img:"img/rakuten.png"
             },
+            
+            {
+                parentClass:"unusual",
+                classname:"ufj_nicos",  
+                href:"https://www.cr.mufg.jp/business/amex/webs/index.html",
+                img:"img/ufj_nicos.png"
+            },
             {
                 parentClass:"unusual",
                 classname:"jcb",  
