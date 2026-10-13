@@ -264,6 +264,17 @@ class IconData{
                 img:"img/smbc.png"
             },
             {
+                parentClass:"unusual", 
+                classname:"jist",
+                href:"https://www.jis-t.ne.jp/dczws000/o3w",
+                img:"img/jist.png"
+            },
+
+
+
+
+            
+            {
                 parentClass:"unusual",
                 classname:"rakuten", 
                 href:"https://www.rakuten-card.co.jp/e-navi/",
